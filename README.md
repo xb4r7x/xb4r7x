@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[!NOTE]
-TEST
+> [!NOTE]
+> TEST
 
 <!--
 **xb4r7x/xb4r7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
